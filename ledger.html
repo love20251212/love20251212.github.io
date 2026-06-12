@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Common Expense</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Shared spending</p>
+          <h1>Common Expense</h1>
+          <p class="lede">A clean summary of who paid, what it was for, and how the spending breaks down by category.</p>
+        </div>
+        <section class="total-panel" aria-label="Total spending">
+          <span class="panel-label">Total spent</span>
+          <strong id="grand-total">Loading</strong>
+          <span id="expense-count" class="panel-note">Reading CSV</span>
+        </section>
+      </header>
+
+      <section class="toolbar" aria-label="Filters">
+        <label class="search-box">
+          <span>Search</span>
+          <input id="search-input" type="search" placeholder="Person, category, note" />
+        </label>
+        <label class="select-box">
+          <span>Person</span>
+          <select id="person-filter">
+            <option value="all">All people</option>
+          </select>
+        </label>
+        <label class="select-box">
+          <span>Category</span>
+          <select id="category-filter">
+            <option value="all">All categories</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="summary-grid" aria-label="Summary">
+        <div>
+          <div class="section-heading">
+            <h2>By person</h2>
+            <p>How much each person paid.</p>
+          </div>
+          <div id="people-summary" class="person-grid"></div>
+        </div>
+
+        <div>
+          <div class="section-heading">
+            <h2>By type</h2>
+            <p>Food, transport, and other categories.</p>
+          </div>
+          <div id="category-summary" class="category-list"></div>
+        </div>
+      </section>
+
+      <section class="details-section">
+        <div class="section-heading details-heading">
+          <div>
+            <h2>Details</h2>
+            <p id="visible-count">All expenses</p>
+          </div>
+          <button id="reset-button" type="button">Reset filters</button>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Person</th>
+                <th>Type</th>
+                <th class="amount-cell">Amount</th>
+                <th>Note</th>
+              </tr>
+            </thead>
+            <tbody id="expense-table"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
