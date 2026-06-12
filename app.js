@@ -1,16 +1,3 @@
-const embeddedCsv = `date,person,amount,currency,category,note
-20260611,Yixin,9.6,GBP,Food,yogurt and tomatoes at tesco
-20260611,Yixin,6.6,GBP,Food,bread at gails
-20260611,Yixin,4.25,GBP,Food,at M&S
-20260611,Yixin,45,GBP,Food,at jinshi
-20260612,Yifan,2.5,GBP,Transport,dlr from lcy to woolwich on 20260611
-20260612,Yifan,64,GBP,Food,old town 97
-20260612,Yifan,37.31,GBP,Food,vegetables and meat and fruit
-20260612,Yixin,18,GBP,Food,cakes like earl grey
-20260612,Yixin,0.87,GBP,Food,bananas at tesco
-20260612,Yixin,5.4,GBP,Food,macha latte at gails
-20260612,Yixin,5.9,GBP,Food,hey tea`;
-
 const state = {
   expenses: [],
   filters: {
@@ -35,21 +22,15 @@ const elements = {
 
 init();
 
-async function init() {
-  const csvText = await loadCsv();
-  state.expenses = parseCsv(csvText);
-  populateFilters();
-  bindEvents();
-  render();
-}
-
-async function loadCsv() {
+function init() {
   try {
-    const response = await fetch("commen-expense.csv", { cache: "no-store" });
-    if (!response.ok) throw new Error("CSV not available");
-    return await response.text();
+    if (!window.expenseCsvData) throw new Error("Data file not loaded");
+    state.expenses = parseCsv(window.expenseCsvData || "");
+    populateFilters();
+    bindEvents();
+    render();
   } catch (error) {
-    return embeddedCsv;
+    showLoadError(error);
   }
 }
 
@@ -154,6 +135,21 @@ function renderTable(expenses) {
       `,
     )
     .join("");
+}
+
+function showLoadError(error) {
+  elements.grandTotal.textContent = "Data load failed";
+  elements.expenseCount.textContent = error.message;
+  elements.visibleCount.textContent = "No expenses loaded";
+  elements.peopleSummary.innerHTML = "";
+  elements.categorySummary.innerHTML = "";
+  elements.expenseTable.innerHTML = `
+    <tr>
+      <td class="empty-state" colspan="5">
+        Cannot read expense-data.js. Make sure it is in the same folder as ledger.html.
+      </td>
+    </tr>
+  `;
 }
 
 function populateFilters() {
