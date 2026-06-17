@@ -1,4 +1,7 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260617,Yifan,64.13,GBP,Food,snacks
+20260617,Yixin,10,GBP,Service,social activity boni
+20260617,Yixin,4,GBP,Food,gails
 20260616,Yifan,4.5,GBP,Food,cherries
 20260616,Yixin,5.6,GBP,Food,starbucks
 20260615,Yixin,9.08,GBP,Food,lidl
@@ -13,9 +16,9 @@ window.expenseCsvData = `date,person,amount,currency,category,note
 20260614,Yixin,9.7,GBP,Food,chinese supermarket
 20260614,Yixin,4.1,GBP,Food,gails
 20260614,Yixin,1.65,GBP,Food,onions and garlic at tesco
-20260613,Yifan,7.2,GBP,Transport,transport fot london in 20260612
+20260613,Yifan,7.2,GBP,Transport,transport for london in 20260612
 20260613,Yifan,10.41,GBP,Food,cherries and sausages at M&S
-20260613,Yixin,7.2,GBP,Transport,transport fot london in 20260612
+20260613,Yixin,7.2,GBP,Transport,transport for london in 20260612
 20260613,Yixin,3.77,GBP,Food,cherry tomatoes and cucumber at Tesco
 20260612,Yifan,2.5,GBP,Transport,dlr from lcy to woolwich on 20260611
 20260612,Yifan,64,GBP,Food,old town 97
