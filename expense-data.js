@@ -1,4 +1,9 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260621,Yixin,6.9,GBP,Transport,tfl on 20260620
+20260621,Yixin,12.65,GBP,Food,starbucks
+20260621,Yixin,5.3,GBP,Food,breads at gails
+20260621,Yifan,12.26,GBP,Food,oat milk and chicken breast fillets and baby tomatoes
+20260621,Yifan,36.0,GBP,Food,vietnamese food
 20260620,Yifan,9.2,GBP,Transport,tfl
 20260620,Yifan,24.57,GBP,Food,jinshi
 20260620,Yixin,9.2,GBP,Transport,tfl
