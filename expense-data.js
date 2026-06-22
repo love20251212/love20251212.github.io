@@ -1,4 +1,9 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260622,Yixin,10,GBP,Misc,friend's birthday
+20260622,Yixin,8,GBP,Food,breads at gails
+20260622,Yixin,13.35,GBP,Food,starbucks
+20260622,Yifan,18,GBP,Food,jinshi
+20260622,Yifan,3.36,GBP,Food,garlic and eggs at tesco
 20260621,Yixin,6.9,GBP,Transport,tfl on 20260620
 20260621,Yixin,12.65,GBP,Food,starbucks
 20260621,Yixin,5.3,GBP,Food,breads at gails
@@ -21,7 +26,7 @@ window.expenseCsvData = `date,person,amount,currency,category,note
 20260619,Yixin,5.7,GBP,Food,starbucks
 20260619,Yixin,100.05,GBP,Shopping,clothes
 20260618,Yifan,2.2,GBP,Food,oat milk
-20260618,Yixin,18,GBP,Shopping,flowers for colleagues
+20260618,Yixin,18,GBP,Misc,flowers for colleagues
 20260618,Yixin,4.6,GBP,Transport,tfl on 20260617
 20260618,Yixin,4,GBP,Food,gails
 20260618,Yixin,5.65,GBP,Food,starbucks
