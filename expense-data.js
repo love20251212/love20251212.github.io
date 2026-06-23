@@ -1,4 +1,12 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260623,Yixin,16.2,GBP,Food,eataly liverpoo london
+20260623,Yixin,4.4,GBP,Food,egg tarts
+20260623,Yixin,6.72,GBP,Food,potatoes and spinaches at M&S
+20260623,Yixin,13.7,GBP,Food,breads at gails and latte at starbucks
+20260623,Yixin,5.25,GBP,Food,baby tomatoes and peppers at tesco
+20260623,Yixin,17.63,GBP,Food,fried chicken and burgers using deliveroo
+20260623,Yifan,54.0,GBP,Food,tst-roti king liverpoo london
+20260623,Yifan,6.5,GBP,Food,beers
 20260622,Yixin,10,GBP,Misc,friend's birthday
 20260622,Yixin,8,GBP,Food,breads at gails
 20260622,Yixin,13.35,GBP,Food,starbucks
