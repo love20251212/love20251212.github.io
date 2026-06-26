@@ -1,11 +1,18 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260626,Yixin,8.4,GBP,Transport,tfl
+20260626,Yixin,40.28,GBP,Food,malaxiangguo deliveroo
+20260626,Yixin,33.8,GBP,Food,Japanese bbq
+20260626,Yixin,4.5,GBP,Food,baby tomato and oat milk
+20260626,Yifan,8.4,GBP,Transport,tfl
+20260626,Yifan,22.7,GBP,Food,macha mille crepe and sundae and macha latte
+20260626,Yifan,5.0,EUR,Service,top up phone card
 20260625,Yixin,5.99,GBP,Food,oat macha latte and drinks
 20260625,Yixin,6.8,GBP,Food,bottled water at M&S
 20260625,Yixin,7.1,GBP,Food,gails
 20260625,Yixin,5.7,GBP,Food,starbucks
 20260625,Yixin,7.2,GBP,Transport,tfl
 20260625,Yifan,7.2,GBP,Transport,tfl
-20260625,Yifan,45.32,GBP,Food,
+20260625,Yifan,45.32,GBP,Food,yue kitchen
 20260624,Yixin,1.49,GBP,Food,drinks
 20260624,Yixin,5.7,GBP,Food,starbucks
 20260624,Yixin,12.5,GBP,Food,breads at gails
