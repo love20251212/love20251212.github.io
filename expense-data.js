@@ -1,4 +1,36 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260630,Yifan,74.08,GBP,Food,singapore food
+20260630,Yixin,5.4,GBP,Food,gails
+20260630,Yixin,5.2,GBP,Food,jidong
+20260630,Yixin,19,GBP,Food,cheese cake at Cakes & Bubbles
+20260630,Yixin,5.94,GBP,Food,kerean supermarket
+20260630,Yixin,5.4,GBP,Food,ices at M&S
+20260630,Yixin,21.33,GBP,Food,pizza
+20260630,Yixin,79.35,GBP,Food,groceries
+20260629,Yifan,8.0,GBP,Transport,tfl
+20260629,Yifan,34.92,GBP,Food,jinshi
+20260629,Yifan,22.13,GBP,Food,snacks
+20260629,Yifan,3.2,GBP,Shopping,daily routine
+20260629,Yixin,8.0,GBP,Transport,tfl
+20260629,Yixin,2.2,GBP,Food,gails
+20260629,Yixin,71.67,GBP,Service,council tax
+20260628,Yixin,18.74,GBP,Food,deliveroo
+20260628,Yixin,12,GBP,Service,wifi bills
+20260628,Yixin,7.65,GBP,Food,starbucks
+20260628,Yixin,2.9,GBP,Food,drinks at M&S
+20260628,Yixin,7.2,GBP,Transport,tfl
+20260628,Yifan,7.2,GBP,Transport,tfl
+20260628,Yifan,48,GBP,Food,malaxianguo at crystal china
+20260627,Yixin,4.8,GBP,Transport,tfl
+20260627,Yixin,12.55,GBP,Food,starbucks
+20260627,Yixin,4,GBP,Food,tesco
+20260627,Yixin,6.2,GBP,Food,gails
+20260627,Yixin,2.1,GBP,Food,M&S
+20260627,Yifan,4.8,GBP,Transport,tfl
+20260627,Yifan,12.95,GBP,Food,prawn and chicken fried noodles
+20260627,Yifan,18.0,GBP,Food,pho(vietnamese rice noodles)
+20260627,Yifan,67.5,GBP,Food,krean food
+20260627,Yifan,17.1,GBP,Shopping,antibacterial sanitizer spray
 20260626,Yixin,8.4,GBP,Transport,tfl
 20260626,Yixin,40.28,GBP,Food,malaxiangguo deliveroo
 20260626,Yixin,33.8,GBP,Food,Japanese bbq
