@@ -8,6 +8,8 @@ window.expenseCsvData = `date,person,amount,currency,category,note
 20260702,Yifan,0.75,GBP,Food,cream at tesco
 20260702,Yifan,10.93,GBP,Food,snacks
 20260702,Yifan,1.79,GBP,Food,rices
+20260701,Yixin,11.5,GBP,Service,bank account vip
+20260701,Yixin,1300,GBP,House,house rent
 20260701,Yixin,68.4,GBP,Food,square sagye restaurant
 20260701,Yixin,32.63,GBP,Food,the alchemist
 20260701,Yixin,1.89,GBP,Food,chips
