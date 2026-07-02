@@ -1,4 +1,19 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260702,Yixin,10,GBP,Service,top up phone card at giffgaff
+20260702,Yixin,5.6,GBP,Transport,tfl
+20260702,Yixin,0.78,GBP,Service,financial service
+20260702,Yixin,8.38,GBP,Food,ingredients at chinese supermarket
+20260702,Yixin,9.11,GBP,Food,ingredients at lidl
+20260702,Yifan,3.4,GBP,Food,grapes at M&S
+20260702,Yifan,0.75,GBP,Food,cream at tesco
+20260702,Yifan,10.93,GBP,Food,snacks
+20260702,Yifan,1.79,GBP,Food,rices
+20260701,Yixin,68.4,GBP,Food,square sagye restaurant
+20260701,Yixin,32.63,GBP,Food,the alchemist
+20260701,Yixin,1.89,GBP,Food,chips
+20260701,Yixin,4.7,GBP,Food,blank street
+20260701,Yixin,12.8,GBP,Transport,tfl
+20260701,Yifan,8.4,GBP,Transport,tfl
 20260630,Yifan,74.08,GBP,Food,singapore food
 20260630,Yixin,5.4,GBP,Food,gails
 20260630,Yixin,5.2,GBP,Food,jidong
