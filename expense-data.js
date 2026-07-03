@@ -1,4 +1,13 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260703,Yixin,7,GBP,Food,VyTa
+20260703,Yixin,6.45,GBP,Food,yole covent garden
+20260703,Yixin,2.18,GBP,Food,kerean supermarket
+20260703,Yixin,4.99,GBP,Service,deliveroo vip
+20260703,Yixin,19.1,GBP,Service,cleaning house
+20260703,Yifan,8.9,GBP,Food,blank street
+20260703,Yifan,60.23,GBP,Food,urumchi uyghur
+20260703,Yifan,3.8,GBP,Food,milk and salad
+20260703,Yifan,2.45,GBP,Food,stainless steel scourer
 20260702,Yixin,10,GBP,Service,top up phone card at giffgaff
 20260702,Yixin,5.6,GBP,Transport,tfl
 20260702,Yixin,0.78,GBP,Service,financial service
