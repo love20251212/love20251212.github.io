@@ -1,4 +1,15 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260704,Yixin,11.17,GBP,Food,mart woolwich
+20260704,Yixin,4.2,GBP,Food,blank street
+20260704,Yixin,5.9,GBP,Food,heytea
+20260704,Yixin,4.0,GBP,Food,bread at gails
+20260704,Yixin,8.4,GBP,Transport,tfl
+20260704,Yifan,8.4,GBP,Transport,tfl
+20260704,Yifan,1.89,GBP,Food,chips at McDonald
+20260704,Yifan,4.0,GBP,Food,bread at gails
+20260704,Yifan,72.1,GBP,Food,the eight
+20260704,Yifan,599.0,GBP,Shopping,iphone 17e
+20260704,Yifan,19.9,GBP,Food,macha powder
 20260703,Yixin,7,GBP,Food,VyTa
 20260703,Yixin,6.45,GBP,Food,yole covent garden
 20260703,Yixin,2.18,GBP,Food,kerean supermarket
