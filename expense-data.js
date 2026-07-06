@@ -1,4 +1,12 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260705,Yixin,7.2,GBP,Transport,tfl
+20260705,Yixin,12.1,GBP,Food,starbucks
+20260705,Yixin,4.1,GBP,Food,juice at M&S
+20260705,Yixin,39.9,GBP,Food,muji tcr
+20260705,Yixin,9.81,GBP,Food,mart woolwich
+20260705,Yifan,7.2,GBP,Transport,tfl
+20260705,Yifan,61.38,GBP,Food,urumchi uyghur
+20260705,Yifan,2.85,GBP,Food,blueberry conserve at M&S
 20260704,Yixin,11.17,GBP,Food,mart woolwich
 20260704,Yixin,4.2,GBP,Food,blank street
 20260704,Yixin,5.9,GBP,Food,heytea
