@@ -1,4 +1,10 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260708,Yixin,11.15,GBP,Food,starbucks
+20260708,Yixin,5.5,GBP,Food,fortitude bakehouse square
+20260708,Yifan,47.03,GBP,Food,urumchi uyghur
+20260708,Yifan,69.97,GBP,Service,tariff
+20260708,Yifan,41.6,GBP,Food,eat tokyo
+20260708,Yifan,12.5,GBP,Food,mille crepe
 20260707,Yixin,12,GBP,Transport,tfl
 20260707,Yifan,12,GBP,Transport,tfl
 20260707,Yifan,0.65,GBP,Food,bread
