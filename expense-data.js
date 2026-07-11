@@ -1,4 +1,21 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260711,Yixin,8.4,GBP,Transport,tfl
+20260711,Yixan,45,GBP,Food,breads and sauces at bakery festival
+20260711,Yixin,3.3,GBP,Food,coffee
+20260711,Yixin,1.49,GBP,Food,drinks
+20260711,Yifan,8.4,GBP,Transport,tfl
+20260711,Yifan,20.0,EUR,Service,top up sim card vodafone
+20260711,Yifan,38,GBP,Food,dandan london bridge
+20260710,Yixin,7.2,GBP,Transport,tfl
+20260710,Yixin,17,GBP,Food,crepes
+20260710,Yixin,6.25,GBP,Food,beef sandwich
+20260710,Yixin,11.55,GBP,Food,starbucks
+20260710,Yixin,4,GBP,Food,bread at gails
+20260710,Yifan,7.2,GBP,Transport,tfl
+20260710,Yifan,11.0,GBP,Food,ice cream oddonos gelatiitalia london
+20260710,Yifan,7.98,GBP,Food,tesco
+20260710,Yifan,1.89,GBP,Food,chips at macdonald
+20260710,Yifan,30.0,GBP,Food,vienan food
 20260709,Yifan,7.2,GBP,Transport,tfl
 20260709,Yifan,43.1,GBP,Food,old town 97
 20260709,Yixin,7.2,GBP,Transport,tfl
