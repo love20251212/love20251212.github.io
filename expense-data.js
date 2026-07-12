@@ -1,4 +1,10 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260712,Yixin,8.0,GBP,Transport,tfl
+20260712,Yixin,5.8,GBP,Food,macha drinks at chayan canary wharf
+20260712,Yixin,7.5,GBP,Food,sumup fresh meat
+20260712,Yifan,8.0,GBP,Transport,tfl
+20260712,Yifan,12.25,GBP,Food,yohome south quay and family kitchen wokingham
+20260711,Yifan,11,GBP,Food,drinks at bakery festival
 20260711,Yixin,8.4,GBP,Transport,tfl
 20260711,Yixan,45,GBP,Food,breads and sauces at bakery festival
 20260711,Yixin,3.3,GBP,Food,coffee
