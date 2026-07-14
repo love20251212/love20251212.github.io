@@ -1,4 +1,16 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260714,Yifxin,4.95,GBP,Food,drinks
+20260714,Yixin,8,GBP,Transport,tfl
+20260714,Yifan,28.9,GBP,Food,gogo pocha
+20260714,Yifan,1.89,GBP,Food,chips
+20260714,Yifan,31.84,GBP,Food,tesco
+20260713,Yifxin,10.35,GBP,Food,starbucks
+20260713,Yifxin,16.45,GBP,Food,urumchi uyghur
+20260713,Yifxin,14.5,GBP,Food,fried chicken
+20260713,Yixin,4.8,GBP,Transport,tfl
+20260713,Yifan,4.8,GBP,Transport,tfl
+20260713,Yifan,8.91,GBP,Food,toufu at jinshi
+20260713,Yifan,3.5,GBP,Food,chives egg pie
 20260712,Yixin,8.0,GBP,Transport,tfl
 20260712,Yixin,5.8,GBP,Food,macha drinks at chayan canary wharf
 20260712,Yixin,7.5,GBP,Food,sumup fresh meat
