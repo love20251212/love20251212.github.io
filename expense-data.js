@@ -2,15 +2,15 @@ window.expenseCsvData = `date,person,amount,currency,category,note
 20260715,Yixin,7.2,GBP,Transport,tfl
 20260715,Yixin,4.2,GBP,Food,snacks at tesco
 20260715,Yifan,10.7,GBP,Food,starbucks
-20260715,Yifan,7.2,GBP,Food,tfl
-20260714,Yifxin,4.95,GBP,Food,drinks
-20260714,Yixin,8,GBP,Transport,tfl
+20260715,Yifan,7.2,GBP,Transport,tfl
+20260714,Yixin,4.95,GBP,Food,drinks
+20260714,Yixin,7.2,GBP,Transport,tfl
 20260714,Yifan,28.9,GBP,Food,gogo pocha
 20260714,Yifan,1.89,GBP,Food,chips
 20260714,Yifan,31.84,GBP,Food,tesco
-20260713,Yifxin,10.35,GBP,Food,starbucks
-20260713,Yifxin,16.45,GBP,Food,urumchi uyghur
-20260713,Yifxin,14.5,GBP,Food,fried chicken
+20260713,Yixin,10.35,GBP,Food,starbucks
+20260713,Yixin,16.45,GBP,Food,urumchi uyghur
+20260713,Yixin,14.5,GBP,Food,fried chicken
 20260713,Yixin,4.8,GBP,Transport,tfl
 20260713,Yifan,4.8,GBP,Transport,tfl
 20260713,Yifan,8.91,GBP,Food,toufu at jinshi
