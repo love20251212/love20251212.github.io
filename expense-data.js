@@ -1,4 +1,14 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260718,Yixin,7.2,GBP,Transport,tfl in 20260717
+20260717,Yixin,7.2,GBP,Transport,tfl in 20260716
+20260717,Yixin,4.6,GBP,Food,cheese cake
+20260717,Yixin,36.45,GBP,Food,bbq at anshanren limited
+20260717,Yixin,4.5,GBP,Food,heytea
+20260716,Yixin,943,GBP,Service,uk visa
+20260716,Yixin,1552.5,GBP,Service,health insurance
+20260716,Yixin,27,GBP,Food,luoshifen at qiangbrothers
+20260716,Yixin,5.25,GBP,Food,milksha shaftesbur
+20260716,Yifan,8.91,GBP,Food,toufu at jinshi
 20260715,Yixin,7.2,GBP,Transport,tfl
 20260715,Yixin,4.2,GBP,Food,snacks at tesco
 20260715,Yifan,10.7,GBP,Food,starbucks
@@ -22,7 +32,7 @@ window.expenseCsvData = `date,person,amount,currency,category,note
 20260712,Yifan,12.25,GBP,Food,yohome south quay and family kitchen wokingham
 20260711,Yifan,11,GBP,Food,drinks at bakery festival
 20260711,Yixin,8.4,GBP,Transport,tfl
-20260711,Yixan,45,GBP,Food,breads and sauces at bakery festival
+20260711,Yixin,45,GBP,Food,breads and sauces at bakery festival
 20260711,Yixin,3.3,GBP,Food,coffee
 20260711,Yixin,1.49,GBP,Food,drinks
 20260711,Yifan,8.4,GBP,Transport,tfl
