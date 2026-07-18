@@ -1,4 +1,8 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260718,Yifan,8.91,GBP,Food,toufu at jinshi
+20260718,Yifan,22.74,GBP,Food,snacks
+20260718,Yifan,3.48,GBP,Food,chips
+20260718,Yixin,7.18,GBP,Food,snacks
 20260718,Yixin,7.2,GBP,Transport,tfl in 20260717
 20260717,Yixin,7.2,GBP,Transport,tfl in 20260716
 20260717,Yixin,4.6,GBP,Food,cheese cake
