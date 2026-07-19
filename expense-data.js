@@ -1,4 +1,13 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260719,Yixin,17.28,GBP,Food,cheese bread at papajoints
+20260719,Yixin,16.69,GBP,Food,durian
+20260719,Yixin,19.99,GBP,Food,niu taiwanese beef no
+20260719,Yixin,7.2,GBP,Transport,tfl in 20260719
+20260719,Yixin,20.49,GBP,Food,snacks and food ingredients
+20260719,Yifan,6.46,GBP,Food,eggs and snacks
+20260719,Yifan,11.1,GBP,Food,starbucks
+20260719,Yifan,13.65,GBP,Food,niu taiwanese beef no
+20260719,Yifan,7.2,GBP,Transport,tfl in 20260719
 20260718,Yifan,8.91,GBP,Food,toufu at jinshi
 20260718,Yifan,22.74,GBP,Food,snacks
 20260718,Yifan,3.48,GBP,Food,chips
