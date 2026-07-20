@@ -1,4 +1,12 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260720,Yixin,7.2,GBP,Transport,tfl on 20260720
+20260720,Yixin,7.06,GBP,Food,tesco
+20260720,Yixin,39.04,GBP,Food,dinner at liverpool street
+20260720,Yixin,4.6,GBP,Food,coffee
+20260720,Yifan,7.2,GBP,Transport,tfl on 20260720
+20260720,Yifan,12.6,GBP,Food,chayan london ltd
+20260720,Yifan,2.75,GBP,Food,watermelon at m&s
+20260720,Yifan,4.3,GBP,Food,egg tarts
 20260719,Yixin,17.28,GBP,Food,cheese bread at papajoints
 20260719,Yixin,16.69,GBP,Food,durian
 20260719,Yixin,19.99,GBP,Food,niu taiwanese beef no
@@ -12,8 +20,8 @@ window.expenseCsvData = `date,person,amount,currency,category,note
 20260718,Yifan,22.74,GBP,Food,snacks
 20260718,Yifan,3.48,GBP,Food,chips
 20260718,Yixin,7.18,GBP,Food,snacks
-20260718,Yixin,7.2,GBP,Transport,tfl in 20260717
-20260717,Yixin,7.2,GBP,Transport,tfl in 20260716
+20260718,Yixin,7.2,GBP,Transport,tfl on 20260717
+20260717,Yixin,7.2,GBP,Transport,tfl on 20260716
 20260717,Yixin,4.6,GBP,Food,cheese cake
 20260717,Yixin,36.45,GBP,Food,bbq at anshanren limited
 20260717,Yixin,4.5,GBP,Food,heytea
