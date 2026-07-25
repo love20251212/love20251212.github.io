@@ -1,4 +1,30 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260725,Yifan,24.3,GBP,Food,yeye's noodles
+20260725,Yixin,4.6,GBP,Food,starbucks
+20260725,Yixin,4.44,GBP,Food,snacks
+20260725,Yixin,19.6,GBP,Food,yuanji
+20260724,Yixin,11.1,GBP,Food,starbucks
+20260724,Yifan,14.75,GBP,Food,food at tesco
+20260724,Yifan,5.1,GBP,Food,soft cheese and drinks
+20260723,Yifan,7.2,GBP,Transport,tfl on 20260722
+20260723,Yifan,25.65,GBP,Food,snacks and food
+20260723,Yifan,6.5,GBP,Service,deliver fee for yixin in taobao
+20260723,Yixin,3.7,GBP,Food,shake at tesco
+20260723,Yixin,9.68,GBP,Food,mcdonald
+20260722,Yixin,7.2,GBP,Transport,tfl on 20260722
+20260722,Yixin,13.96,GBP,Food,sugar water
+20260722,Yixin,37.76,GBP,Food,niu taiwanese noodles
+20260722,Yifan,10.9,GBP,Service,topup phone card
+20260722,Yifan,11.1,GBP,Food,starbucks
+20260722,Yifan,4.72,GBP,Food,niu taiwanese food
+20260722,Yifan,4.05,GBP,Food,frozen river london
+20260722,Yifan,10.05,GBP,Food,eggs and cream
+20260721,Yixin,7.2,GBP,Transport,tfl on 20260721
+20260721,Yixin,7.06,GBP,Food,tesco
+20260721,Yixin,10.28,GBP,Food,snacks
+20260721,Yixin,4.6,GBP,Food,starbucks
+20260721,Yixin,4,GBP,Food,bread at gails
+20260721,Yifan,8.9,GBP,Food,toufu at jinshi
 20260720,Yixin,7.2,GBP,Transport,tfl on 20260720
 20260720,Yixin,7.06,GBP,Food,tesco
 20260720,Yixin,39.04,GBP,Food,dinner at liverpool street
