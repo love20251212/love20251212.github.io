@@ -1,4 +1,10 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260727,Yixin,7.2,GBP,Transport,tfl on 20260727
+20260727,Yixin,6,GBP,Transport,tfl on 20260726
+20260727,Yifan,13.05,GBP,Shopping,boots
+20260727,Yifan,10.25,GBP,Food,m&s
+20260727,Yifan,5.8,GBP,Food,drinks chayan
+20260727,Yifan,47.25,GBP,Food,korean food
 20260726,Yixin,7.2,GBP,Transport,tfl on 20260725
 20260726,Yixin,3.26,GBP,Food,drinks
 20260726,Yifan,7.2,GBP,Transport,tfl on 20260725
@@ -6,6 +12,7 @@ window.expenseCsvData = `date,person,amount,currency,category,note
 20260726,Yifan,9.6,GBP,Food,food and snacks at tesco
 20260726,Yifan,7.73,GBP,Food,drinks and food at chinese market
 20260725,Yifan,24.3,GBP,Food,yeye's noodles
+20260725,Yifan,2,GBP,Food,egg tarts
 20260725,Yixin,4.6,GBP,Food,starbucks
 20260725,Yixin,4.44,GBP,Food,snacks
 20260725,Yixin,19.6,GBP,Food,yuanji
