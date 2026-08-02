@@ -1,4 +1,7 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260802,Yixin,127.05,GBP,Service,water fee from January to July
+20260802,Yixin,2.39,GBP,Food,tesco
+20260802,Yixin,10,GBP,Service,phone card esim
 20260801,Yixin,7.2,GBP,Transport,tfl on 20260801
 20260801,Yixin,5.85,GBP,Food,tesco
 20260801,Yixin,23.83,GBP,Food,chinese supermarket
