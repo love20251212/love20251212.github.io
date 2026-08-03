@@ -1,4 +1,12 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260803,Yixin,8,GBP,Food,ikea
+20260803,Yixin,4.99,GBP,Food,deliveroo
+20260803,Yixin,1.75,GBP,Transport,tfl bus
+20260803,Yixin,5.21,GBP,Transport,uber
+20260803,Yifan,19.1,GBP,Food,ikea
+20260803,Yifan,9.05,GBP,Food,meatballs
+20260803,Yifan,1.9,GBP,Food,hotdog and icecream
+20260803,Yifan,11.0,GBP,Food,hotdog takeaway
 20260802,Yixin,127.05,GBP,Service,water fee from January to July
 20260802,Yixin,2.39,GBP,Food,tesco
 20260802,Yixin,10,GBP,Service,phone card esim
