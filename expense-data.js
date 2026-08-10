@@ -1,4 +1,34 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260810,Yixin,7.2,GBP,Transport,tfl today
+20260810,Yifan,45.7,GBP,Food,noodle and beer
+20260810,Yifan,35.98,GBP,Food,fish oil at h&b
+20260810,Yifan,10.0,GBP,Food,chocolate at m&s
+20260809,Yifan,8.0,GBP,Food,prawns
+20260809,Yifan,1.5,GBP,Food,chilli
+20260809,Yifan,3.99,GBP,Food,chive
+20260809,Yifan,2.59,GBP,Food,brown sugar
+20260809,Yifan,6.5,GBP,Food,starbucks
+20260808,Yixin,7.2,GBP,Transport,tfl today
+20260808,Yixin,19.99,GBP,Service,chatgbp
+20260808,Yixin,16.57,GBP,Food,tesco
+20260808,Yixin,25.38,GBP,Food,deliveroo
+20260808,Yixin,30,GBP,Service,cleaning
+20260808,Yixin,12,GBP,Service,wifi
+20260808,Yifan,10.0,GBP,Service,vodafone uk
+20260808,Yifan,12.08,GBP,Food,breakfast at mcdonald
+20260808,Yifan,8.4,GBP,Transport,tfl yesterday
+20260808,Yifan,6.5,GBP,Food,starbucks
+20260807,Yixin,55.7,GBP,Service,electricity
+20260807,Yixin,4.5,GBP,Food,heytea
+20260807,Yixin,6,GBP,Food,la maritxu
+20260807,Yixin,90,GBP,Shopping,liberty
+20260807,Yixin,8.4,GBP,Transport,tfl today
+20260807,Yifan,7.2,GBP,Transport,tfl yesterday
+20260807,Yifan,11.45,GBP,Food,starbucks
+20260807,Yifan,44.27,GBP,Food,rosa's soho
+20260807,Yifan,5.5,GBP,Food,SQ AROME Bakery
+20260807,Yifan,7.98,GBP,Food,chinese drinks
+20260807,Yifan,3.4,GBP,Food,tesco
 20260806,Yixin,7.2,GBP,Transport,tfl today
 20260806,Yixin,4.5,GBP,Food,hey tea
 20260806,Yixin,90,GBP,Food,liberty
