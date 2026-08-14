@@ -1,4 +1,25 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260813,Yixin,39.97,GBP,Food,lucky noodle
+20260813,Yixin,9.79,GBP,Food,burger king
+20260813,Yixin,1.75,GBP,Transport,TFL today
+20260813,Yixin,12.68,GBP,Food,chinese market
+20260813,Yixin,11.94,GBP,Transport,Uber
+20260813,Yifan,10.7,GBP,Transport,tfl and thameslink to gatwick
+20260813,Yifan,40.48,CNY,Shopping,phone shell
+20260813,Yifan,32,CNY,Service,express fee
+20260812,Yixin,11.82,GBP,Food,chinese market
+20260812,Yixin,6.05,GBP,Food,starbucks
+20260812,Yixin,24.1,GBP,Transport,TFL today
+20260812,Yixin,4.18,GBP,Food,tesco
+20260812,Yixin,2.1,GBP,Food,MS sandwich
+20260812,Yifan,17.0,GBP,Food,fried chicken at family kitchen wokingham
+20260812,Yifan,24.8,GBP,Food,gifts at m&s
+20260812,Yifan,4.8,GBP,Transport,tfl yesterday
+20260811,Yifan,7.2,GBP,Transport,tfl yesterday
+20260811,Yixin,4.8,GBP,Transport,TFL today
+20260811,Yixin,5.8,GBP,Food,chayan
+20260811,Yixin,7.5,GBP,Food,fresh meet
+20260811,Yixin,23.3,GBP,Food,waitrose
 20260810,Yixin,7.2,GBP,Transport,tfl today
 20260810,Yifan,45.7,GBP,Food,noodle and beer
 20260810,Yifan,35.98,GBP,Food,fish oil at h&b
