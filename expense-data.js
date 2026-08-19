@@ -1,4 +1,28 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260818,Yixin,71.5,GBP,Service,heating
+20260818,Yifan,105.0,CNY,Service,wash teeth
+20260818,Yifan,2.0,CNY,Food,bottled water
+20260818,Yifan,30.0,CNY,Shopping,phone screen film
+20260818,Yifan,7.0,CNY,Food,pie
+20260817,Yixin,10,GBP,Misc,social gift
+20260817,Yixin,11.85,GBP,Food,tesco
+20260817,Yifan,7.2,CNY,Food,breakfast
+20260817,Yifan,10.0,CNY,Shopping,phone screen film
+20260817,Yifan,1.0,CNY,Food,icecream
+20260817,Yifan,7.92,CNY,Transport,didi
+20260817,Yifan,30.9,CNY,Service,website bar
+20260816,Yixin,2.5,GBP,Food,woolwich worker
+20260816,Yixin,1.85,GBP,Food,tesco
+20260816,Yifan,9,CNY,Service,cinema with treat tickets
+20260816,Yifan,106.67,CNY,Food,dine together
+20260815,Yixin,55.62,GBP,Food,social activities
+20260815,Yixin,10,GBP,Food,prawns at fish market
+20260815,Yixin,2.5,GBP,Food,gregg pizza
+20260815,Yifan,0.0,CNY,Misc,nothing
+20260814,Yifan,99.7,CNY,Shopping,underwear
+20260814,Yifan,73.1,CNY,Transport,didi
+20260814,Yifan,21.5,CNY,Food,noodles
+20260814,Yixin,0.0,GBP,Misc,nothing
 20260813,Yixin,39.97,GBP,Food,lucky noodle
 20260813,Yixin,9.79,GBP,Food,burger king
 20260813,Yixin,1.75,GBP,Transport,TFL today
