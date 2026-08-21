@@ -1,7 +1,11 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260821,Yifan,0.0,CNY,Misc,nothing
+20260820,Yixin,2,GBP,Food,tesco
+20260820,Yixin,3.8,GBP,Food,m&s
 20260820,Yifan,84.0,CNY,Food,hotpot
 20260819,Yifan,0.0,CNY,Misc,nothing
 20260819,Yixin,79.17,GBP,Shopping,Ocado
+20260819,Yixin,3.54,GBP,Food,tesco
 20260818,Yixin,5.5,GBP,Food,m&s
 20260818,Yixin,71.5,GBP,Service,heating
 20260818,Yifan,105.0,CNY,Service,wash teeth
