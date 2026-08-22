@@ -1,4 +1,8 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260822,Yifan,50.0,CNY,Service,topup phone card
+20260822,Yifan,85.99,CNY,Shopping,keyboard skin
+20260822,Yifan,500,CNY,Service,mock
+20260821,Yixin,0.0,GBP,Misc,nothing
 20260821,Yifan,0.0,CNY,Misc,nothing
 20260820,Yixin,2,GBP,Food,tesco
 20260820,Yixin,3.8,GBP,Food,m&s
