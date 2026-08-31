@@ -1,4 +1,23 @@
 window.expenseCsvData = `date,person,amount,currency,category,note
+20260831,Yifan,34.4,CNY,Food,kfc food delivery
+20260831,Yifan,6.0,CNY,Food,dinner fast food
+20260831,Yifan,5.0,CNY,Service,5g data during 24 hours
+20260831,Yixin,5.99,GBP,Food,chinese market
+20260831,Yixin,5.59,GBP,Food,mcdonald
+20260831,Yixin,23.55,GBP,Transport,uber
+20260830,Yixin,6.4,GBP,Transport,tfl
+20260830,Yixin,26.03,GBP,Food,chinese market
+20260830,Yifan,430.0,CNY,Food,dinner social engagement with leaders
+20260829,Yifan,8.0,CNY,Food,breakfast
+20260829,Yifan,4.9,CNY,Food,blood orange
+20260829,Yifan,3.0,CNY,Shopping,alcohol spray
+20260828,Yixin,7.2,GBP,Transport,tfl
+20260828,Yixin,22.3,GBP,Food,the eight
+20260828,Yixin,6.68,GBP,Food,chinese market
+20260828,Yifan,30.0,CNY,Service,haircut
+20260828,Yifan,8.0,CNY,Food,bread
+20260828,Yifan,3.0,CNY,Food,starbucks with vouchers
+20260828,Yifan,849.0,CNY,Shopping,airpods4
 20260827,Yifan,100,CNY,Misc,love money transfer
 20260826,Yixin,9.85,GBP,Food,chinese market
 20260826,Yixin,9.35,GBP,Food,tesco
